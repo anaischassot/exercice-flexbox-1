@@ -80,3 +80,9 @@ video {
   flex-direction: row;
   justify-content: space-between;
 }
+
+.section-5 {
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap);
+}
