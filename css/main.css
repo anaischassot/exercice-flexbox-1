@@ -64,3 +64,9 @@ video {
   justify-content: flex-start;
   gap: var(--gap);
 }
+
+.section-2 {
+  flex-direction: row-reverse;
+  justify-content: flex-start;
+  gap: var(--gap);
+}
