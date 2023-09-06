@@ -70,3 +70,8 @@ video {
   justify-content: flex-start;
   gap: var(--gap);
 }
+
+.section-3 {
+  flex-direction: column-reverse;
+  gap: var(--gap);
+}
